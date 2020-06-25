@@ -69,4 +69,4 @@ Model-1's performance is better than pretrained-vgg model ( model-2).
 
 
 
-Note: Our research has been accepted by IEEE 3rd International Symposium on Multidisciplinary Studies and Innovative Technologies with paper title " Hand and Face Segmentation with Deep Convolutional Networks using Limited Labelled Data". It will appear in the IEEE Xplore, soon.
+Note: Our research has been accepted by IEEE 3rd International Symposium on Multidisciplinary Studies and Innovative Technologies with paper title " Hand and Face Segmentation with Deep Convolutional Networks using Limited Labelled Data". https://ieeexplore.ieee.org/document/8932835.
